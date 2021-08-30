@@ -1,0 +1,1204 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Catazat"
+		],
+		"description": "A report-based list of players! Please add and DM Catazat#1487 on Discord DEMOs suspected cheaters, exploiters, and bigots, and I will review them and potentially add them to the list.",
+		"title": "ReportList",
+		"update_url": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/staging/cfg/playerlist.official.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Never Taking Vax",
+				"time": 1630283401
+			},
+			"steamid": "[U:1:67749567]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Freedom Feathers Fag",
+				"time": 1619217329
+			},
+			"steamid": "[U:1:102639249]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "YA BOI ADOLF",
+				"time": 1619254830
+			},
+			"steamid": "[U:1:139200028]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Call Me The Roller",
+				"time": 1621716523
+			},
+			"steamid": "[U:1:161624471]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "coolguy42",
+				"time": 1630274228
+			},
+			"steamid": "[U:1:166530121]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "I want to die",
+				"time": 1621716623
+			},
+			"steamid": "[U:1:225934750]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "legs",
+				"time": 1618863448
+			},
+			"steamid": "[U:1:307908667]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "1966 avocado pie",
+				"time": 1630272335
+			},
+			"steamid": "[U:1:349873999]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "chad mango",
+				"time": 1630284207
+			},
+			"steamid": "[U:1:449517878]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ukle dan",
+				"time": 1630272586
+			},
+			"steamid": "[U:1:476243097]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "39",
+				"time": 1618949768
+			},
+			"steamid": "[U:1:857891199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jonah",
+				"time": 1618949950
+			},
+			"steamid": "[U:1:865410232]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "ashtonthefirst",
+				"time": 1630284188
+			},
+			"steamid": "[U:1:1007946027]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)discord.gg/9Ukuw9V",
+				"time": 1618938497
+			},
+			"steamid": "[U:1:1072598788]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)discord.gg/9Ukuw9V",
+				"time": 1618805725
+			},
+			"steamid": "[U:1:1072625984]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)discord.gg/9Ukuw9V",
+				"time": 1618964321
+			},
+			"steamid": "[U:1:1072682042]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/9Ukuw9V",
+				"time": 1618938498
+			},
+			"steamid": "[U:1:1073011349]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/9Ukuw9V",
+				"time": 1618962349
+			},
+			"steamid": "[U:1:1073365014]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/9Ukuw9V",
+				"time": 1618963267
+			},
+			"steamid": "[U:1:1074204753]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/9Ukuw9V",
+				"time": 1618964245
+			},
+			"steamid": "[U:1:1074418356]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "[O-D-F] cgpunk",
+				"time": 1630272464
+			},
+			"steamid": "[U:1:1090305938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1619253025
+			},
+			"steamid": "[U:1:1111508181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)shoppy.gg/@d3fc0n6",
+				"time": 1620008895
+			},
+			"steamid": "[U:1:1131411385]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Sonic287610",
+				"time": 1619254890
+			},
+			"steamid": "[U:1:1133045732]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618883596
+			},
+			"steamid": "[U:1:1133333353]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)haunted.church",
+				"time": 1618856258
+			},
+			"steamid": "[U:1:1133480242]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618885007
+			},
+			"steamid": "[U:1:1140013029]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618963102
+			},
+			"steamid": "[U:1:1140232271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618866397
+			},
+			"steamid": "[U:1:1140848569]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618804977
+			},
+			"steamid": "[U:1:1140891295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618884692
+			},
+			"steamid": "[U:1:1140902640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618962696
+			},
+			"steamid": "[U:1:1140949394]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618962254
+			},
+			"steamid": "[U:1:1141008201]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1619044568
+			},
+			"steamid": "[U:1:1144004700]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1619254173
+			},
+			"steamid": "[U:1:1145967060]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1619254597
+			},
+			"steamid": "[U:1:1146285081]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)[VALVE] N\u2148ggerkiller",
+				"time": 1619254505
+			},
+			"steamid": "[U:1:1148435103]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)haunted.church",
+				"time": 1618857783
+			},
+			"steamid": "[U:1:1163239865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618865184
+			},
+			"steamid": "[U:1:1163306286]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "39s indentured servant",
+				"time": 1618949776
+			},
+			"steamid": "[U:1:1171513597]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faff\u200f\u200f\u200fen-SS",
+				"time": 1619250735
+			},
+			"steamid": "[U:1:1175472143]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-\u200fSS",
+				"time": 1619251229
+			},
+			"steamid": "[U:1:1175539164]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200fa\u200f\u200f\u200fffen-SS",
+				"time": 1619254089
+			},
+			"steamid": "[U:1:1175702581]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200fa\u200f\u200fffen-SS",
+				"time": 1619254533
+			},
+			"steamid": "[U:1:1175928833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)shoppy.gg/@d3fc0n6",
+				"time": 1620008895
+			},
+			"steamid": "[U:1:1177278809]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618863885
+			},
+			"steamid": "[U:1:1177389820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618885207
+			},
+			"steamid": "[U:1:1177450026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-S\u200f\u200fS\u200f",
+				"time": 1618856271
+			},
+			"steamid": "[U:1:1177927205]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen\u200f-SS",
+				"time": 1619251637
+			},
+			"steamid": "[U:1:1178083209]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faf\u200ffen-SS",
+				"time": 1619253461
+			},
+			"steamid": "[U:1:1178139827]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-SS\u200f",
+				"time": 1619254536
+			},
+			"steamid": "[U:1:1178236240]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faffen-SS",
+				"time": 1619252162
+			},
+			"steamid": "[U:1:1178363323]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-SS\u200f",
+				"time": 1619252200
+			},
+			"steamid": "[U:1:1178395062]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-SS\u200f\u200f\u200f",
+				"time": 1619254086
+			},
+			"steamid": "[U:1:1178409894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffe\u200f\u200fn-SS",
+				"time": 1619253934
+			},
+			"steamid": "[U:1:1178514437]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-SS\u200f\u200f",
+				"time": 1619217328
+			},
+			"steamid": "[U:1:1178573066]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-SS\u200f",
+				"time": 1619254074
+			},
+			"steamid": "[U:1:1178798457]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faf\u200ffen-SS",
+				"time": 1618863791
+			},
+			"steamid": "[U:1:1178833819]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618962988
+			},
+			"steamid": "[U:1:1179106352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618863790
+			},
+			"steamid": "[U:1:1179110485]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618856290
+			},
+			"steamid": "[U:1:1179129845]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-SS\u200f\u200f",
+				"time": 1619254487
+			},
+			"steamid": "[U:1:1179198049]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618863790
+			},
+			"steamid": "[U:1:1179347786]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618805161
+			},
+			"steamid": "[U:1:1179423126]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618885151
+			},
+			"steamid": "[U:1:1179487938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)haunted.church",
+				"time": 1618856290
+			},
+			"steamid": "[U:1:1179595502]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618863873
+			},
+			"steamid": "[U:1:1179631213]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618865013
+			},
+			"steamid": "[U:1:1179779480]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-SS\u200f\u200f",
+				"time": 1619254536
+			},
+			"steamid": "[U:1:1181230463]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen\u200f\u200f-SS",
+				"time": 1619251636
+			},
+			"steamid": "[U:1:1181464175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200fa\u200f\u200fffen-SS",
+				"time": 1619254534
+			},
+			"steamid": "[U:1:1181500380]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-S\u200f\u200fS",
+				"time": 1619253338
+			},
+			"steamid": "[U:1:1181622461]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wa\u200f\u200fffen-SS",
+				"time": 1619254534
+			},
+			"steamid": "[U:1:1181639347]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-\u200fSS",
+				"time": 1619254228
+			},
+			"steamid": "[U:1:1181735183]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-S\u200fS",
+				"time": 1618962758
+			},
+			"steamid": "[U:1:1182884203]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faffen-SS",
+				"time": 1619255484
+			},
+			"steamid": "[U:1:1183255008]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faffen-SS\u200f",
+				"time": 1619254536
+			},
+			"steamid": "[U:1:1183364688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-SS\u200f",
+				"time": 1618857766
+			},
+			"steamid": "[U:1:1183380907]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e4aGATRONIC",
+				"time": 1619218179
+			},
+			"steamid": "[U:1:1184265137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)haunted.church",
+				"time": 1618883666
+			},
+			"steamid": "[U:1:1185628796]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1619047902
+			},
+			"steamid": "[U:1:1185720988]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e47",
+				"time": 1619252195
+			},
+			"steamid": "[U:1:1185728881]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618864406
+			},
+			"steamid": "[U:1:1185985205]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)shoppy.gg/@d3fc0n6",
+				"time": 1620008895
+			},
+			"steamid": "[U:1:1186212208]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEG\u0e35ATRONIC",
+				"time": 1619255484
+			},
+			"steamid": "[U:1:1187638538]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONI\u0e49C",
+				"time": 1618962340
+			},
+			"steamid": "[U:1:1188015629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e4dRONIC",
+				"time": 1619253851
+			},
+			"steamid": "[U:1:1188956534]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618857872
+			},
+			"steamid": "[U:1:1190197353]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1620008895
+			},
+			"steamid": "[U:1:1190307591]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1621527408
+			},
+			"steamid": "[U:1:1190381151]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618805706
+			},
+			"steamid": "[U:1:1190446198]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)haunted.church",
+				"time": 1618864406
+			},
+			"steamid": "[U:1:1190449005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)haunted.church",
+				"time": 1618864406
+			},
+			"steamid": "[U:1:1190461238]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618883641
+			},
+			"steamid": "[U:1:1190546315]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618865883
+			},
+			"steamid": "[U:1:1190590122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1619047865
+			},
+			"steamid": "[U:1:1190626434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)shoppy.gg/@d3fc0n6",
+				"time": 1620008895
+			},
+			"steamid": "[U:1:1190726183]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "haunted.church",
+				"time": 1618856201
+			},
+			"steamid": "[U:1:1190970614]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Soldier gaming (Not a bot)",
+				"time": 1618938661
+			},
+			"steamid": "[U:1:1192120625]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-SS\u200f",
+				"time": 1619255696
+			},
+			"steamid": "[U:1:1192251500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1619255192
+			},
+			"steamid": "[U:1:1199140175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618805103
+			},
+			"steamid": "[U:1:1201737131]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618865222
+			},
+			"steamid": "[U:1:1201805780]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618865813
+			},
+			"steamid": "[U:1:1201845415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618962229
+			},
+			"steamid": "[U:1:1201849484]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618857834
+			},
+			"steamid": "[U:1:1201883883]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618863873
+			},
+			"steamid": "[U:1:1201890790]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618962677
+			},
+			"steamid": "[U:1:1201932956]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618856072
+			},
+			"steamid": "[U:1:1201950553]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618885057
+			},
+			"steamid": "[U:1:1201964104]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618884749
+			},
+			"steamid": "[U:1:1201980359]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618865241
+			},
+			"steamid": "[U:1:1202004583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618962317
+			},
+			"steamid": "[U:1:1202115103]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618856088
+			},
+			"steamid": "[U:1:1202124828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Stallman",
+				"time": 1618865069
+			},
+			"steamid": "[U:1:1202173458]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Richard Stallman",
+				"time": 1618857796
+			},
+			"steamid": "[U:1:1202350989]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "andcatg7.craig54",
+				"time": 1619229892
+			},
+			"steamid": "[U:1:1203651847]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ScoobyEatsBabies",
+				"time": 1621527515
+			},
+			"steamid": "[U:1:1208893231]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Echo\u0e4c",
+				"time": 1630284132
+			},
+			"steamid": "[U:1:1215656418]"
+		}
+	]
+}
