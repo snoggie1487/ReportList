@@ -6,7 +6,7 @@
 		],
 		"description": "A report-based list of players! Please add and DM Catazat#1487 on Discord DEMOs suspected cheaters, exploiters, and bigots, and I will review them and potentially add them to the list.",
 		"title": "ReportList",
-		"update_url": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/staging/cfg/playerlist.official.json"
+		"update_url": "https://raw.githubusercontent.com/snoggie1487/ReportList/main/ReportList.json"
 	},
 	"players": [
 		{
